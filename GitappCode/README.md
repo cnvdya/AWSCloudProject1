@@ -45,19 +45,19 @@ Once the user logins to travelogue, he can perform following operations:
         The app should be up and running.
             
 ## Home Page
-![alt text](screenshots/homepage.png "this is the home page")
+![alt text](screenshots/homepage.jpg "this is the home page")
 
 ## Login window
-![alt text](screenshots/Login.png "this is login window")
+![alt text](screenshots/login.jpg "this is login window")
 
 ## Home  page after login
-![alt text](screenshots/viewlist.png "this is the landing page after login")
+![alt text](screenshots/viewlist.jpg "this is the landing page after login")
 
 ## Upload window
-![alt text](screenshots/upload.png "this is the upload window")
+![alt text](screenshots/upload.jpg "this is the upload window")
 
 ## Update window
-![alt text](screenshots/update-delete.png "this is the update delete window")
+![alt text](screenshots/update-delete.jpg "this is the update delete window")
 
 
 
