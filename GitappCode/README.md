@@ -4,11 +4,11 @@
     Course: Cloud Technologies
     Professor: Sanjay Garje
     ISA: Divyankitha Urs
-    Student: Vidya Coimbatore Nand Kumar
+    Student: Vidya CN
     Linkedin url : www.linkedin.com/in/vidya-n-
 
 ## About App:
-The application called travelogue creates a blog for people who want to share their travel experience. It is hosted on amazon cloud. It leverages numerous cloud services provided by aws to make it highly available and scalable.
+The application called travelogue creates a blog for people who want to share their travel experience. It is hosted on amazon cloud. It leverages numerous cloud services like EC2, ELB, RDS, LAMBDA, S3, CLOUDFRONT to make it highly available and scalable.
 
 ## Features offered:
 Once the user logins to travelogue, he can perform following operations:
@@ -16,7 +16,7 @@ Once the user logins to travelogue, he can perform following operations:
     Creating a blog post, adding image to the post, updating the post, deleting post, viewing all posts etc. 
     The images are stored in the cloud using AWS Simple Storage Service. 
     The data related to Blog Posts are stored in RDS MYSQL database
-    Features like comments for user activity will be created in the future.
+    Features like comments for user activity will be integrated in the future.
     Each user can view posts from other users, but cannot update/delete others posts, images etc.
 
 
