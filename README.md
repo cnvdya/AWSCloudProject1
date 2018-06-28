@@ -48,7 +48,7 @@ Once the user logins to travelogue, he can perform following operations:
         The app should be up and running.
         
 ## Architecture
-![alt text](screenshots/architecture.png "this is the architecture")
+![alt text](screenshots/architecture1.png "this is the architecture")
             
 ## Home Page
 ![alt text](screenshots/homepage.JPG "this is the home page")
