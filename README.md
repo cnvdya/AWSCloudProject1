@@ -1,4 +1,4 @@
-# AWSCloudProject1
+# AWS Cloud Project
 AWS Cloud Project -Travelogue application 
 
 # CMPE281Project1
@@ -46,6 +46,9 @@ Once the user logins to travelogue, he can perform following operations:
         Give the RDS MYSQL connection parameters in the db config file.
         Open a web browser like Chrome, type http://localhost/FOLDERNAME to view the front end of the application.
         The app should be up and running.
+        
+## Architecture
+![alt text](screenshots/architecture.png "this is the architecture")
             
 ## Home Page
 ![alt text](screenshots/homepage.JPG "this is the home page")
@@ -56,8 +59,8 @@ Once the user logins to travelogue, he can perform following operations:
 ## Home  page after login
 ![alt text](screenshots/viewlist.JPG "this is the landing page after login")
 
-## Upload window
+## Upload screen
 ![alt text](screenshots/upload.JPG "this is the upload window")
 
-## Update window
+## Update screen
 ![alt text](screenshots/update-delete.JPG "this is the update delete window")
