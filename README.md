@@ -11,7 +11,7 @@ AWS Cloud Project -Travelogue application
     Linkedin url : www.linkedin.com/in/vidya-n-
 
 ## About App:
-The application called travelogue creates a blog for people who want to share their travel experience. It is hosted on amazon cloud. It leverages numerous cloud services like EC2, ELB, RDS, LAMBDA, S3, CLOUDFRONT to make it highly available and scalable.
+The application called travelogue creates a blog for people who want to share their travel experience. It is hosted on amazon cloud. It leverages numerous cloud services like EC2, ELB, RDS, LAMBDA, S3, CLOUDFRONT to make it highly available and scalable. Developed using PHP, CodeIgniter.
 
 ## Features offered:
 Once the user logins to travelogue, he can perform following operations:
